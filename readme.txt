@@ -5,3 +5,4 @@ test4
 test5
 test6forslave1
 test8formaster
+test7fotslave2
