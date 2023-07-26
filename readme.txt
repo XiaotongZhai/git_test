@@ -6,3 +6,4 @@ test5
 test6forslave1
 test8formaster
 test7fotslave2
+test8fordev
